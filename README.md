@@ -1,6 +1,6 @@
 ## iptorrent-autologger
 
-Automate iptorrent login to bypass the periodic active user checks.
+Automate iptorrent login to bypass the bi-weekly active user checks.
 
 Dependancies:
 * Chrome Browser
@@ -10,4 +10,4 @@ Dependancies:
 * python-dotenv
 
 setup:
-* chromewebdriver needs to be in your PATH env
+* chromewebdriver needs to be in your $PATH
