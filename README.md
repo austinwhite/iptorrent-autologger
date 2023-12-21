@@ -2,12 +2,8 @@
 
 Automate iptorrent login to bypass the bi-weekly active user checks.
 
-Dependancies:
-* Chrome Browser
-* chromewebdriver
-* Selenium
-* undetected-chromedriver
-* python-dotenv
+NOTE: uses undetected-chromedriver to avoid triggering anti-bot servies.
+https://github.com/ultrafunkamsterdam/undetected-chromedriver
 
 setup:
 * chromewebdriver needs to be in your $PATH
